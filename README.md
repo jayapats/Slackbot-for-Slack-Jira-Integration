@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/56284010/112211246-e2406580-8bd8-11eb-832c-d2336b185c79.png)
 
 # Excel report through Slack
+![image](https://user-images.githubusercontent.com/56284010/112866636-de945f00-906e-11eb-90fc-11fa608689e6.png)
 
 
 # JIRA Ticket created
